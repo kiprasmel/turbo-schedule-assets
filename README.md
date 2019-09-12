@@ -7,3 +7,9 @@
 ```url
 https://sarpik.github.io/turbo-schedule-assets/**
 ```
+
+## File search
+
+```url
+https://github.com/sarpik/turbo-schedule-assets/find/master
+```
