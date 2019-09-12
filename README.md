@@ -4,8 +4,12 @@
 
 ## Usage
 
-https://sarpik.github.io/turbo-schedule-assets/ + `./path/to/file`
+<a href="https://sarpik.github.io/turbo-schedule-assets/">
+	https://sarpik.github.io/turbo-schedule-assets/
+</a> + `./path/to/file`
 
 ## File search
 
-https://github.com/sarpik/turbo-schedule-assets/find/master
+<a href="https://github.com/sarpik/turbo-schedule-assets/find/master">
+	https://github.com/sarpik/turbo-schedule-assets/find/master
+</a>
