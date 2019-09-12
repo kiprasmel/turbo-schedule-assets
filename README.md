@@ -4,9 +4,7 @@
 
 ## Usage
 
-```url
-https://sarpik.github.io/turbo-schedule-assets/**
-```
+`https://sarpik.github.io/turbo-schedule-assets/` + `./path/to/file`
 
 ## File search
 
