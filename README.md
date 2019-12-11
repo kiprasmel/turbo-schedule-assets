@@ -6,7 +6,7 @@
 
 <a href="https://sarpik.github.io/turbo-schedule-assets/">
 	https://sarpik.github.io/turbo-schedule-assets/
-</a> + `./path/to/file`
+</a> + <code>./path/to/file</code>
 
 ## File search
 
